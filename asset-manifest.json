@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-shoes/static/css/main.13db1941.css",
-    "main.js": "/react-shoes/static/js/main.72c2e2e5.js",
+    "main.css": "/react-shoes/static/css/main.1f3e3f8e.css",
+    "main.js": "/react-shoes/static/js/main.97116396.js",
     "static/media/shoes3.jpg": "/react-shoes/static/media/shoes3.f1603cde2077cdff6f0c.jpg",
     "static/media/shoes2.jpg": "/react-shoes/static/media/shoes2.663ca9a0414ed8c4eaa5.jpg",
     "static/media/joseph-barrientos-4qSb_FWhHKs-unsplash.jpg": "/react-shoes/static/media/joseph-barrientos-4qSb_FWhHKs-unsplash.b94b68d9b3d816ddd01c.jpg",
     "static/media/shoes.jpg": "/react-shoes/static/media/shoes.767417bea17688d6d8ce.jpg",
     "static/media/shoes4.jpg": "/react-shoes/static/media/shoes4.5a5b9cc33521be49ab6f.jpg",
     "index.html": "/react-shoes/index.html",
-    "main.13db1941.css.map": "/react-shoes/static/css/main.13db1941.css.map",
-    "main.72c2e2e5.js.map": "/react-shoes/static/js/main.72c2e2e5.js.map"
+    "main.1f3e3f8e.css.map": "/react-shoes/static/css/main.1f3e3f8e.css.map",
+    "main.97116396.js.map": "/react-shoes/static/js/main.97116396.js.map"
   },
   "entrypoints": [
-    "static/css/main.13db1941.css",
-    "static/js/main.72c2e2e5.js"
+    "static/css/main.1f3e3f8e.css",
+    "static/js/main.97116396.js"
   ]
 }
